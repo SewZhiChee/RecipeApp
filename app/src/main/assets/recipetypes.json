@@ -1,0 +1,150 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Chicken Curry",
+      "type": "Main Dish",
+      "image": "chickencurry",
+      "ingredients": [
+        "1kg chicken",
+        "2 onions",
+        "3 tomatoes",
+        "2tbsp curry powder",
+        "1tsp turmeric powder",
+        "1tsp chili powder",
+        "1tsp garam masala",
+        "1tbsp ginger-garlic paste",
+        "1/2 cup yogurt",
+        "Salt",
+        "2 cups coconut milk",
+        "2tbsp vegetable oil",
+        "Fresh coriander leaves"
+      ],
+      "steps": [
+        "1. Heat oil in a large pan over medium heat. Add chopped onions and sauté until golden brown.",
+        "2. Add ginger-garlic paste and sauté for a minute until fragrant.",
+        "3. Add chopped tomatoes and cook until they soften and oil starts to separate.",
+        "4. Add curry powder, turmeric, chili powder, and salt. Stir well and cook for a few minutes.",
+        "5. Add the chicken pieces and cook until they are browned on all sides.",
+        "6. Lower the heat, add the yogurt, and stir to coat the chicken evenly.",
+        "7. Pour in the coconut milk, bring to a simmer, and cook covered for 20 minutes, stirring occasionally.",
+        "8. Stir in garam masala and cook for an additional 5 minutes.",
+        "9. Garnish with fresh coriander leaves and serve hot with rice or naan."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Carrot Cake",
+      "type": "Dessert",
+      "image": "carrotcake",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1tsp baking soda",
+        "1 1/2 tsp baking powder",
+        "1tsp ground cinnamon",
+        "1/2tsp ground nutmeg",
+        "1/2tsp salt",
+        "3/4 cup vegetable oil",
+        "4 eggs",
+        "2 cups grated carrots",
+        "1/2 cup crushed pineapple",
+        "1/2 cup chopped walnuts",
+        "1tsp vanilla extract"
+      ],
+      "steps": [
+        "1. Preheat your oven to 350°F (175°C). Grease and flour a 9x13-inch baking pan.",
+        "2. In a large mixing bowl, combine the flour, sugar, baking soda, baking powder, cinnamon, nutmeg, and salt.",
+        "3. In another bowl, beat the eggs and oil together until well combined.",
+        "4. Add the wet ingredients to the dry ingredients and mix until just combined.",
+        "5. Fold in the grated carrots, crushed pineapple, chopped walnuts, and vanilla extract.",
+        "6. Pour the batter into the prepared baking pan and spread evenly.",
+        "7. Bake for 40-45 minutes, or until a toothpick inserted into the center comes out clean.",
+        "8. Allow the cake to cool completely in the pan before frosting with cream cheese frosting, if desired."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Cake",
+      "type": "Dessert",
+      "image": "chocolatecake",
+      "ingredients": [
+        "1 3/4 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "3/4 cup unsweetened cocoa powder",
+        "1 1/2tsp baking powder",
+        "1 1/2tsp baking soda",
+        "1tsp salt",
+        "2 large eggs",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "2tsp vanilla extract",
+        "1 cup boiling water"
+      ],
+      "steps": [
+        "1. Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round baking pans.",
+        "2. In a large bowl, combine the flour, sugar, cocoa powder, baking powder, baking soda, and salt.",
+        "3. Add the eggs, milk, oil, and vanilla. Beat on medium speed for 2 minutes.",
+        "4. Stir in the boiling water (the batter will be thin).",
+        "5. Pour the batter into the prepared pans and bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+        "6. Cool the cakes in the pans for 10 minutes, then remove them from the pans and cool completely on wire racks.",
+        "7. Frost with your favorite chocolate frosting or ganache."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fish Soup",
+      "type": "Soup",
+      "image": "fishsoup",
+      "ingredients": [
+        "4 cups fish or vegetable stock",
+        "400g white fish fillets, cubed",
+        "1 onion, chopped",
+        "2 carrots, sliced",
+        "2 celery stalks, chopped",
+        "2 potatoes, diced",
+        "2 cloves garlic, minced",
+        "1 bay leaf",
+        "1 tsp dried thyme",
+        "Salt and pepper",
+        "1 tbsp olive oil",
+        "Fresh parsley"
+      ],
+      "steps": [
+        "1. Heat olive oil in a large pot over medium heat. Add chopped onions, carrots, celery, and garlic. Sauté until the vegetables are softened.",
+        "2. Add the diced potatoes, bay leaf, thyme, and fish or vegetable stock. Bring to a boil, then reduce the heat and simmer for 15 minutes.",
+        "3. Add the cubed fish and cook for another 5-7 minutes, or until the fish is cooked through and flakes easily with a fork.",
+        "4. Season the soup with salt and pepper to taste.",
+        "5. Remove the bay leaf and garnish the soup with fresh parsley before serving."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mushroom Soup",
+      "type": "Soup",
+      "image": "mushroomsoup",
+      "ingredients": [
+        "500g mushrooms",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "4 cups chicken or vegetable stock",
+        "1/2 cup heavy cream",
+        "2tbsp butter",
+        "2tbsp all-purpose flour",
+        "1tsp dried thyme",
+        "Salt and pepper",
+        "Fresh parsley"
+      ],
+      "steps": [
+        "1. In a large pot, melt the butter over medium heat. Add the chopped onion and garlic, and sauté until soft and translucent.",
+        "2. Add the sliced mushrooms and cook until they release their juices and begin to brown.",
+        "3. Sprinkle the flour over the mushrooms and stir well to combine. Cook for 1-2 minutes to remove the raw flour taste.",
+        "4. Gradually add the chicken or vegetable stock, stirring constantly to avoid lumps.",
+        "5. Add the dried thyme and bring the soup to a boil. Reduce the heat and let it simmer for 15 minutes.",
+        "6. Use an immersion blender to puree the soup until smooth, or leave it chunky if you prefer.",
+        "7. Stir in the heavy cream and season with salt and pepper to taste.",
+        "8. Garnish with fresh parsley and serve hot."
+      ]
+    }
+  ]
+}

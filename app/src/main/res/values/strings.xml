@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Recipe App</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_type">Recipe Type</string>
+    <string name="view">View</string>
+    <string-array name="recipe_type_arraylist">
+        <item>All</item>
+        <item>Main Dish</item>
+        <item>Soup</item>
+        <item>Dessert</item>
+    </string-array>
+    <string name="ingredients">Ingredients</string>
+    <string name="step">Step</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="filter">Filter</string>
+    <string name="edit">Edit Recipe</string>
+    <string name="confirm">Confirm</string>
 </resources>
