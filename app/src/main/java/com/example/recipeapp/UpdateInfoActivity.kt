@@ -4,14 +4,12 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.recipeapp.databinding.UpdateInfoBinding
-import com.example.recipeapp.storage.Recipe
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import org.json.JSONArray
 import org.json.JSONObject
 import java.io.File
-import java.io.InputStreamReader
 
 class UpdateInfoActivity : AppCompatActivity() {
     private lateinit var binding: UpdateInfoBinding
